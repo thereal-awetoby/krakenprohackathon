@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+apscheduler
+python-dotenv
+pybit
+httpx
+numpy
+pandas
+alpaca-trade-api
+google-generativeai
